@@ -1,0 +1,29 @@
+{
+  "name": "XXXMD",
+  "version": "1.0.0",
+  "description": "Multi-feature WhatsApp bot using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "nodejs"
+  ],
+  "author": "DOMINION",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "axios": "^1.6.0",
+    "pino": "^8.16.0",
+    "qrcode-terminal": "^0.12.0",
+    "node-fetch": "^2.7.0",
+    "form-data": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "sharp": "^0.33.0",
+    "jimp": "^0.22.10"
+  }
+}
